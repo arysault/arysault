@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-My name is Ary and I'm a I'm a Software Engineer currently working with Golang
+My name is Ary, and I'm a Software Engineer focused on building and maintaining back-end applications using TypeScript, Node.js, and MariaDB.
 
-- 🔭 I’m currently working with Golang
-- 🌱 I’m currently learning Clouds Technology
+- 🔭 Currently working with TypeScript, Node.js, and MariaDB to develop scalable and efficient back-end solutions.
+- 🌱 Expanding my skills in cloud technology and actively studying algorithms to strengthen my problem-solving abilities.
+- 🤖 Machine learning enthusiast, aiming to specialize in this field in the future.
 - 😄 Pronouns: He/Him
-
 
 ###
 
